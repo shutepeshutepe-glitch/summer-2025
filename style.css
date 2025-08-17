@@ -1,5 +1,5 @@
 body {
-  background-color: #e0f2ff;
+  background-color: #364AFF;
   font-family: 'Arial', sans-serif;
   margin: 0;
   padding: 0;
@@ -8,26 +8,26 @@ body {
 }
 
 .container {
-  max-width: 800px;
+  max-width: 1400px;
   margin: 40px auto;
   padding: 20px;
   background-color: #ffffff;
-  border-radius: 10px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  border-radius: 20px;
+  box-shadow: 0 2px 15px rgba(0,0,0,0.9);
 }
 
 h1 {
-  color: #007acc;
+  color: #060E57;
   text-align: center;
 }
 
 h2 {
-  color: #005f99;
+  color: #FFB30E;
   margin-top: 30px;
 }
 
 h3 {
-  color: #004466;
+  color: #7DA4EB;
   margin-top: 20px;
 }
 
